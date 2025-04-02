@@ -2,10 +2,8 @@
 .Rhistory
 .RData
 .Ruserdata
-images/*
 *DS_Store
 README.html
-test*
 park_plots*
 data/kontur*
 MSFD*
